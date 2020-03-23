@@ -1,8 +1,6 @@
  # things  
 
-A collection of things I like
-
-***
+#### A collection of things I like
 
 TODO:
 

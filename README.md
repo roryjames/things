@@ -2,6 +2,8 @@
 
 A collection of things I like
 
+***
+
 TODO:
 
 Tech tips
